@@ -4,12 +4,12 @@ This Streamlit application allows users to solve their medical queries by proces
 You can either choose the bot to answer your queries using the data based on webpage(s) you provide or using its own default data.
 If the user chooses to provide its own data, it could be provided as individual webpages (max 3) or providing a entire website (through which we will scrap data for the max pages you specify)
 
-# Important
+# Important:
 
 Do Install the required packages using 'pip install -r requirements.txt'
 Also install Pathway using 'pip install -U pathway'
 
-# Project Structure
+# Project Structure:
 
 main.py: The main application script
 requirements.txt: Requirements for the project
@@ -21,3 +21,8 @@ Ensure you have a valid OpenAI API key to use the language model.
 
 # You can view a video demo on the working of the app:
 https://www.youtube.com/watch?v=Jci8gWEP_9A&ab_channel=BansalTalks
+
+# License:
+This project is licensed under the MIT License. See the [LICENSE.txt](LICENSE.txt) file for more details.
+
+Contributions are welcome! Please open a pull request or issue on GitHub if you have any suggestions or improvements.
