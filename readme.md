@@ -1,6 +1,6 @@
 # Your Own RECYCLE Bot 🩺
 
-This Streamlit application allows users to solve their recycle queries by processing health-related articles from specified URLs or websites. The application uses OpenAI's language model to answer recycle questions based on the provided data.
+This Streamlit application allows users to solve their recycle queries by processing environment-related articles from specified URLs or websites. The application uses OpenAI's language model to answer recycle questions based on the provided data.
 You can either choose the bot to answer your queries using the data based on webpage(s) you provide or using its own default data.
 If the user chooses to provide its own data, it could be provided as individual webpages (max 3) or providing a entire website (through which we will scrap data for the max pages you specify)
 
