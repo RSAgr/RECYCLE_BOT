@@ -1,4 +1,4 @@
-# Your Own RECYCLE Bot 🩺
+# Your Own RECYCLE Bot 
 
 This Streamlit application allows users to solve their recycle queries by processing environment-related articles from specified URLs or websites. The application uses OpenAI's language model to answer recycle questions based on the provided data.
 You can either choose the bot to answer your queries using the data based on webpage(s) you provide or using its own default data.
@@ -21,6 +21,8 @@ Ensure you have a valid OpenAI API key to use the language model.
 
 # You can view a video demo on the working of the app:
 https://www.youtube.com/watch?v=Jci8gWEP_9A&ab_channel=BansalTalks
+
+🩺🩺🩺🩺🩺🩺🩺🩺🩺🩺🩺🩺🩺🩺🩺🩺🩺🩺🩺🩺🩺🩺🩺🩺🩺🩺🩺🩺🩺🩺🩺🩺🩺🩺
 
 # License:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for more details.
